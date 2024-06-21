@@ -1,3 +1,8 @@
+### Using Multi User creator
+curl -O https://raw.githubusercontent.com/surpriseawofemi/openvpn-install/master/multi-user.sh
+chmod +x multi-user.sh
+./multi-user.sh
+
 **New: [wireguard-install](https://github.com/Nyr/wireguard-install) is also available.**
 
 ## openvpn-install
